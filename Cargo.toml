@@ -1,6 +1,6 @@
 [package]
 publish = false
-name = "shared"
+name = "common"
 version = "0.0.1"
 edition = "2021"
 

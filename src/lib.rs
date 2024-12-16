@@ -1,5 +1,4 @@
 pub mod actor;
-pub mod canister;
 pub mod consts;
 pub mod id;
 pub mod item;
